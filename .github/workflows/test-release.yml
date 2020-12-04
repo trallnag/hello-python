@@ -1,5 +1,8 @@
 name: test-release
 
+# Required secrets:
+# - TEST_PYPI_TOKEN (Token for Test PyPI)
+
 on: 
   workflow_dispatch:
 

@@ -1,5 +1,8 @@
 name: release
 
+# Required secrets:
+# - PYPI_TOKEN (Token for PyPI)
+
 on: 
   workflow_dispatch:
 
