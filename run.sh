@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-project_name="hello_python"
+project_name="trallnags_hello_python"
 
 # ==============================================================================
 # Misc
