@@ -10,3 +10,18 @@ specification.
 ## [Unreleased]
 
 * Nothing
+
+## [5.5.1] 2020-12-04
+
+### Fixed
+
+* Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy 
+  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+  voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
+* kasd gubergren, no sea takimata sanc
+* fefoefkoepfe
+* ```python
+  print("fefe" * 2)
+  ```
+  fefefe
+* feffefefewfeojm
