@@ -32,7 +32,7 @@ jobs:
     - run: bash run.sh test
     - run: bash run.sh lint
     - run: poetry build
-    - run: poetry publish -u __token__ -p ${{ secrets.PYPI_TOKEN }}
+    - run: poetry publish -r testpypi -u __token__ -p ${{ secrets.TEST_PYPI_TOKEN }}
 
     # ==========================================================================
 
