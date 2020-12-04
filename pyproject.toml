@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "hello-python"
+name = "trallnags-hello-python"
 version = "0.1.0"
 description = "Just a test project"
 authors = ["Tim Schwenke <tim.and.trallnag+code@gmail.com>"]
