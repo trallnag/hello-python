@@ -9,7 +9,7 @@
 
 ![release](https://github.com/trallnag/hello-python/workflows/release/badge.svg)
 ![commit](https://github.com/trallnag/hello-python/workflows/commit/badge.svg)
-[![codecov](https://codecov.io/gh/trallnag/trallnags-hello-python/branch/master/graph/badge.svg)](https://codecov.io/gh/trallnag/trallnags-hello-python)
+[![Code Coverage with Codecov](https://codecov.io/gh/trallnag/trallnags-hello-python/branch/master/graph/badge.svg)](https://codecov.io/gh/trallnag/trallnags-hello-python)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 My personal Python project "template".
